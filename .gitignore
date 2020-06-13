@@ -1,0 +1,7 @@
+.DS_Store
+.env*
+.pnp.js
+/.pnp
+/build
+/node_modules
+*.log

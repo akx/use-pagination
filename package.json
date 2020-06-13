@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "name": "use-pagination",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "author": "Aarni Koskela <akx@iki.fi>",
+  "license": "MIT"
+}
